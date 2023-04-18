@@ -1,0 +1,9 @@
+
+
+NodePort: ip interno, apenas para o pod
+ClusterIP: ip interno para replicas (balanceador de pods)
+LoadBalancer: ip externo (balanceador de pods)
+
+https://cert-manager.io/
+
+https://kubernetes.github.io/ingress-nginx/deploy/#azure
